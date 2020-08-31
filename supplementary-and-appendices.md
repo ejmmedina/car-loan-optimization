@@ -57,8 +57,7 @@ Guide on approaching the task:
     * Has there been a mis-pricing of APR quotes?
 * Can we build a systematic approach that can scale with the number of segments given certain customer characteristics?
 
-![image.png](attachment:image.png)
-
+![png](output_img_supp/data_dict.png)
 
 ```python
 df = pd.read_excel("NomisB.xlsx", na_values=' ')
