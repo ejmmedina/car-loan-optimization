@@ -254,7 +254,7 @@ for i, column in enumerate(df_N.columns):
 ```
 
 
-![png](output_img/output_16_0.png)
+![png](output_img_supp/output_16_0.png)
 
 
 
@@ -279,7 +279,7 @@ ax.axes.set_title("Correlation Matrix", fontsize=18, y=1.01);
 ```
 
 
-![png](output_img/output_17_0.png)
+![png](output_img_supp/output_17_0.png)
 
 
 ### Testing of ML algorithms
@@ -542,7 +542,7 @@ plt.scatter(y, p(y), c=df_N_target.to_numpy(), alpha=0.9)
 
 
 
-![png](output_img/output_32_1.png)
+![png](output_img_supp/output_32_1.png)
 
 
 
@@ -559,7 +559,7 @@ plt.scatter(y[c], p(y)[c])
 
 
 
-![png](output_img/output_33_1.png)
+![png](output_img_supp/output_33_1.png)
 
 
 
@@ -576,7 +576,7 @@ plt.scatter(y[c], p(y)[c])
 
 
 
-![png](output_img/output_34_1.png)
+![png](output_img_supp/output_34_1.png)
 
 
 $\hat{y} = $
@@ -638,7 +638,7 @@ plt.title('Logit Probability Distribution of Availed vs Rejected Loans')
 
 
 
-![png](output_img/output_37_1.png)
+![png](output_img_supp/output_37_1.png)
 
 
 
@@ -659,7 +659,7 @@ ax.legend(*ax1.legend_elements(), title='Rejected/Availed');
 ```
 
 
-![png](output_img/output_38_0.png)
+![png](output_img_supp/output_38_0.png)
 
 
 
@@ -689,7 +689,7 @@ plt.title('Shifted Logit Probability Distribution of Rejected Loans')
 
 
 
-![png](output_img/output_39_1.png)
+![png](output_img_supp/output_39_1.png)
 
 
 
@@ -765,7 +765,7 @@ plt.title('Logit Probability Distribution of Availed vs Rejected Loans')
 
 
 
-![png](output_img/output_44_1.png)
+![png](output_img_supp/output_44_1.png)
 
 
 
@@ -786,7 +786,7 @@ ax.legend(*ax1.legend_elements(), title='Rejected/Availed');
 ```
 
 
-![png](output_img/output_45_0.png)
+![png](output_img_supp/output_45_0.png)
 
 
 
@@ -816,7 +816,7 @@ plt.title('Shifted Logit Probability Distribution of Rejected Loans')
 
 
 
-![png](output_img/output_46_1.png)
+![png](output_img_supp/output_46_1.png)
 
 
 
@@ -894,7 +894,7 @@ plt.title('Logit Probability Distribution of Availed vs Rejected Loans')
 
 
 
-![png](output_img/output_51_1.png)
+![png](output_img_supp/output_51_1.png)
 
 
 
@@ -915,7 +915,7 @@ ax.legend(*ax1.legend_elements(), title='Rejected/Availed');
 ```
 
 
-![png](output_img/output_52_0.png)
+![png](output_img_supp/output_52_0.png)
 
 
 
@@ -945,7 +945,7 @@ plt.title('Shifted Logit Probability Distribution of Rejected Loans')
 
 
 
-![png](output_img/output_53_1.png)
+![png](output_img_supp/output_53_1.png)
 
 
 
