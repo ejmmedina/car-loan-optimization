@@ -5,4 +5,4 @@ Logistic regression (with lasso regularization) for classification was chosen to
 
 ##### Report and analysis
 
-If you have any questions regarding this study or wish to have a copy of the report, please send me a message via <a href="mailto:elijahjustinmedina@gmail.com">e-mail</a> or <a href="https://www.linkedin.com/in/elijah-justin-medina/">LinkedIn</a>.
+If you have any questions regarding this study or wish to have a copy of the report, please send me a message via <a href="mailto:elijahjustinmedina@gmail.com">e-mail</a> or <a href="https://www.linkedin.com/in/elijah-justin-medina/">LinkedIn</a>. The code used for this analysis is available <a href="https://github.com/ejmmedina/car-loan-optimization/blob/master/pricing-optimization-ml.md">here</a> with supplementary code <a href="https://github.com/ejmmedina/car-loan-optimization/blob/master/supplementary-and-appendices.md">here</a>.
